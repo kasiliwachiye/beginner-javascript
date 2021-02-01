@@ -16,6 +16,7 @@ const currencies = {
   ILS: 'Israeli New Sheqel',
   INR: 'Indian Rupee',
   JPY: 'Japanese Yen',
+  KES: 'Kenyan Shilling',
   KRW: 'South Korean Won',
   MXN: 'Mexican Peso',
   MYR: 'Malaysian Ringgit',
