@@ -16,7 +16,7 @@ const currencies = {
   ILS: 'Israeli New Sheqel',
   INR: 'Indian Rupee',
   JPY: 'Japanese Yen',
-  KES: 'Kenyan Shilling',
+  KSH: 'Kenyan Shilling',
   KRW: 'South Korean Won',
   MXN: 'Mexican Peso',
   MYR: 'Malaysian Ringgit',
@@ -30,6 +30,8 @@ const currencies = {
   SGD: 'Singapore Dollar',
   THB: 'Thai Baht',
   TRY: 'Turkish Lira',
+  TSH: 'Tanzanian Shilling',
+  USH: 'Ugandan Shilling',
   ZAR: 'South African Rand',
   EUR: 'Euro',
 };
